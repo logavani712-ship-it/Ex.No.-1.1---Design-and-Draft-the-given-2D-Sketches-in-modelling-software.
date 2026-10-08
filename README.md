@@ -1,5 +1,8 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
+#### NAME: LOGAVANI D
+#### REF NO: 26018671
+
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -42,6 +45,11 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+
+
+
+<img width="1127" height="763" alt="Screenshot 2026-10-06 211242" src="https://github.com/user-attachments/assets/49801d63-4d88-453f-b1dd-fe0e05de794f" />
+
 
 
 ## RESULT
